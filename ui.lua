@@ -1,5 +1,5 @@
 local lib = {}
--- idk bro
+
 lib.init = function(title, accent, togglekey)
 	local window = {}
 	local UILib = Instance.new("ScreenGui")
@@ -1344,5 +1344,5 @@ lib.init = function(title, accent, togglekey)
 
 	return window
 end
-
+-- return it nigg
 return lib
